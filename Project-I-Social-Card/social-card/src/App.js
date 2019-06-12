@@ -5,16 +5,11 @@ import HeaderContainer from './components/HeaderComponents/HeaderContainer';
 import Footer from './components/FooterComponents/Footer';
 
 const App = () => {
-    return ( <
-        div className = "body" >
-        <
-        HeaderContainer / >
-        <
-        CardContainer / >
-        <
-        Footer / >
-        <
-        /div>
+    return ( 
+        <div className = "body">
+        <HeaderContainer / >
+        <CardContainer / >
+        </div>
     );
 };
 

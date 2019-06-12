@@ -1,6 +1,6 @@
 import React from 'react';
 import './Card.css';
-import CardContent from './cardContent';
+import CardContent from './CardContent';
 
 function CardBanner() {
     return ( <
